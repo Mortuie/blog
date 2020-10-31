@@ -1,3 +1,16 @@
 # Blog
 
-This will house all the code and posts for my blog.
+## Who am I
+
+
+
+## Structure of the Repository
+
+
+
+
+
+## Copyright
+
+
+Leon Boehmer 2020
