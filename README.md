@@ -12,5 +12,4 @@
 
 ## Copyright
 
-
-Leon Boehmer 2020
+Leon Boehmer 2020 ©
